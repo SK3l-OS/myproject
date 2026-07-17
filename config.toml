@@ -1,0 +1,14 @@
+[site]
+name = "Alex Edwards"
+title = "Cybersecurity • Developer • IT"
+description = "Personal portfolio built with Streamlit."
+
+[social]
+github = "https://github.com/SK3l-OS"
+email = "edwardsalex4@outlook.com"
+
+[theme]
+primaryColor = "#00E5FF"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"
