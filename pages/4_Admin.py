@@ -24,12 +24,12 @@ def get_secret(key, default=None):
 
 ADMIN_USERNAME = get_secret(
     "ADMIN_USERNAME",
-    "admin"
+    "terminal"
 )
 
 ADMIN_PASSWORD = get_secret(
     "ADMIN_PASSWORD",
-    "changeme"
+    "admin123"
 )
 
 
