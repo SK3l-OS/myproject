@@ -1,0 +1,5 @@
+ADMIN_USERNAME = "terminal"
+ADMIN_PASSWORD = "admin123"
+
+EMAIL_ADDRESS = "your@email"
+EMAIL_PASSWORD = "yourpassword"
